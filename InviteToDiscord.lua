@@ -90,7 +90,7 @@ if start_anttis == true then
                     end
                 end
             else
-                game.Players.LocalPlayer:Kick("Luxury Security : Detect ( Anti Cheat ), Please rejoin !")
+                game.Players.LocalPlayer:Kick("Alchemy Security : Detect ( Anti Cheat ), Please rejoin !")
             end
         end
     end)
